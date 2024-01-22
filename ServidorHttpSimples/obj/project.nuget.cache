@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "7UUzQxI8WJc9gNAv1CIX+2eTPEanyJ1IljoYCgCmOi/VLof9gvT7l3kCzD+09tjnXxouk4fp5XTlucpWnUMoiw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\João Pedro\\Desktop\\ServidorHttpSimples\\ServidorHttpSimples.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\João Pedro\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.15\\microsoft.netcore.app.ref.7.0.15.nupkg.sha512",
+    "C:\\Users\\João Pedro\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.15\\microsoft.windowsdesktop.app.ref.7.0.15.nupkg.sha512",
+    "C:\\Users\\João Pedro\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.15\\microsoft.aspnetcore.app.ref.7.0.15.nupkg.sha512",
+    "C:\\Users\\João Pedro\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\7.0.15\\microsoft.netcore.app.host.win-x64.7.0.15.nupkg.sha512"
+  ],
+  "logs": []
+}
