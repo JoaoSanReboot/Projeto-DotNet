@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\João Pedro\\Desktop\\ServidorHttpSimples\\ServidorHttpSimples.csproj",
+      "projectUniqueName": "C:\\Users\\João Pedro\\Documents\\GitHub\\Projeto-DotNet\\ServidorHttpSimples\\ServidorHttpSimples.csproj",
       "projectName": "ServidorHttpSimples",
-      "projectPath": "C:\\Users\\João Pedro\\Desktop\\ServidorHttpSimples\\ServidorHttpSimples.csproj",
+      "projectPath": "C:\\Users\\João Pedro\\Documents\\GitHub\\Projeto-DotNet\\ServidorHttpSimples\\ServidorHttpSimples.csproj",
       "packagesPath": "C:\\Users\\João Pedro\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\João Pedro\\Desktop\\ServidorHttpSimples\\obj\\",
+      "outputPath": "C:\\Users\\João Pedro\\Documents\\GitHub\\Projeto-DotNet\\ServidorHttpSimples\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\João Pedro\\AppData\\Roaming\\NuGet\\NuGet.Config",
